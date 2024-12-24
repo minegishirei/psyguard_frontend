@@ -1,0 +1,12 @@
+numpy
+Flask
+llama-cpp-python
+uvicorn
+anyio
+starlette
+fastapi
+sse_starlette
+starlette-context
+pydantic-settings
+groq
+Levenshtein
